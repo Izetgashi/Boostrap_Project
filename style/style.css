@@ -1,0 +1,306 @@
+﻿html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.navbar{
+	/* background:url(foto1.jpg); */
+	background-color: transparent;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+
+.navbar-brand {
+	min-height: 55px;
+	padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a{
+	color: #D5D5D5;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active {
+	color: #fff;
+}
+#home{
+	background:url(foto1.jpg);
+	display: table;
+	height: 80%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+
+}
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+.landing-text h1{
+	font-size: 500%;
+	font-weight: 900;
+	color: #fff;
+}
+.landing-text h2{
+	font-size: 500%;
+	font-weight: 700;
+	color: #fff;
+}
+.landing-text a{
+	margin-left:550px;
+	
+}
+.button1 {
+	padding: 12px 55px;
+	background-color: rgb(255, 185, 1);
+	border: #D5D5D5 ;
+	margin-left: 660px;
+	margin-bottom: 0px;
+	color: #fff;
+	font-size: 150%;
+}
+.padding{
+	padding: 80px 0;
+	background-color: rgb(37, 33, 33);
+}
+.padding h2{
+	font-size: 300%;
+	font-weight: 100;
+	color: #fff;
+	margin-right: 100px;
+}
+.padding img{
+	width: 100%;
+	margin-left: 325px;
+}
+#sole {
+	color: #fff;
+}
+
+/* #fixed {
+	background:url(img/background.jpg) no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+} */
+.section_class1{
+	width: 100%;
+	height: 300px;
+	background-color:#fff;
+  }
+ 
+ .text_class4{
+	 color: white;
+ }
+ .text22_class{
+	font-size: 120%;
+	color: #fff;
+ }
+  .team{
+	display: flex;
+	justify-content: center;
+	width: auto;
+	text-align: center;
+	flex-wrap: wrap;
+  }
+  
+  .team .team_member{
+	background-color: transparent;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 350px;
+	padding: 20px 50px 150px;
+	line-height: 20px;
+	color: black;  
+	position: relative;
+  }
+  
+  .team .team_member p{
+	margin-top: 25px;
+  }
+  .team .team_member h3{
+	color:  rgb(255, 185, 1);;
+	font-size: 26px;
+	margin-top: 50px;
+	font-weight: 700;
+  }
+
+.secton_photo {
+	background: url(../img1/foto3.jpg)  center ;
+	display: table;
+	height: 115%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	align-items: center;
+
+}
+
+.secton_photo1 {
+	background: url(../img1/foto8.jpg)  center ;
+	display: table;
+	height: 150%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	align-items: center;
+
+}
+.secton_photo1 h1{
+	color: rgb(255, 185, 1);
+	font-weight: 500;
+	align-items: center;
+	margin-left: 00px;
+}
+.secton_photo1 h2{
+	color: white;
+	font-weight: 600;
+	align-items: center;
+	margin-left: 500px;
+	margin-top: 750px;
+}
+
+.class_row{
+	color: white;
+}
+
+.class_row p{
+	padding-top: 50px;
+	font-size: 19px;
+	margin-left: 120px;
+	width: 300px;
+}
+
+.padding4{
+	margin-top: 52px;
+}
+
+.padding4 a{
+	color:white;
+	font-size: 20px;
+}
+
+.link_style a{
+	color: rgb(255, 185, 1);
+	font-size: 25px;
+	font-weight: 700;
+}
+
+
+
+#secton h1{
+	color: white;
+	border-style: solid;
+}
+.section_class2{
+	
+	background-color: rgb(37, 33, 33);
+}
+.team1{
+	display: flex;
+	justify-content: center;
+	width: auto;
+	text-align: center;
+	flex-wrap: wrap;
+  }
+  
+  .team1 .team_member1{
+	background-color: transparent;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 750px;
+	padding: 20px 50px 150px;
+	line-height: 20px;
+	color: black;  
+	position: relative;
+  }
+  
+  .team1 .team_member1 p{
+	margin-top: 25px;
+	font-size: 15px;
+	color: white;
+  }
+  .team1 .team_member1 h1{
+	color:  rgb(255, 185, 1);
+	font-size: 50px;
+	margin-top: 50px;
+	font-weight: 700;
+  }
+
+.nothing{
+	
+	background: url(../img1/foto3.jpg);
+	background-repeat: no-repeat;
+	height: 100vw;
+	width: 100vw;
+}
+
+#home1{
+	background:url(../img1/foto4.jpg);
+	display: table;
+	height: 125%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+
+}
+#id1 h2{
+	color: white;
+	padding-top: 50px;
+	padding-left: 175px;
+	padding-bottom: 25px;
+	font-weight: 700;
+}
+.classdiv_{
+	background-color: rgb(255, 185, 1);
+	color: white;
+	width:420px;
+}
+.classdiv_ p{
+	font-size: 22px;
+	font-weight: 700;
+}
+#class_12{
+	color: white;
+	font-size: 35px;
+	font-weight: 700;
+	margin-top: 15px;
+	margin-left: 240px;
+	background-color: rgb(255, 185, 1);
+}
+
+
+#id__1{
+	height: 30%;
+	width: 100%;
+	background-color:rgb(72, 53, 0);
+	color: white;
+}
+.class_row2{
+	margin-left: 120px;
+	width: 800px;
+	margin-left: 355px;
+}
+
+#id_row2{
+	margin-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
